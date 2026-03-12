@@ -1,0 +1,14 @@
+{
+    "help_link": "https://docs.mend.io/bundle/integrations/page/installing_mend_for_gitlab.html",
+    "scanSettings": {
+        "enableIaC": false,
+        "javaVersion": 21,
+        "baseBranches": [
+            "master",
+            "testing1"
+        ]
+    },
+    "scanSettingsSAST": {
+        "enableScan": false
+    }
+}
